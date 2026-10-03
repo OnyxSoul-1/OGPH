@@ -1,4 +1,4 @@
-# 🕹️ OGPH (OnyxSoul Game Portable Handler)
+# 🕹️ OGPH (OnyxSoul Game Player Html)
 
 A lightweight web application designed to make source-code games fully playable on **any device**, especially devices with **small screens** and **poor resolutions**. 
 
