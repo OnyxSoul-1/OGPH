@@ -68,8 +68,6 @@ Ensure your core workspace files reside cleanly inside the root layer of your re
 ```text
 ogph/
 ├── index.html        # Main application file interface
-├── styles.css        # Responsive styling sheets
-├── script.js         # Core scaling engine logic
 └── README.md         # Current file overview documentation
 ```
 
